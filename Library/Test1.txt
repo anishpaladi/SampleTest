@@ -1,16 +1,1 @@
-Done in remote git url
-dfsaf
-sdf
-saf
-ads
-fasda
-f
-
-
-dsf
-s
-f
-sd
-fs
-f
-sa
+Modified test cases name properly 
